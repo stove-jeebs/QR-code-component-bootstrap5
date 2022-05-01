@@ -10,6 +10,7 @@ body {
 
 .card {
     max-width: 330px;
+    box-shadow: 0 5px 25px -10px hsla(217, 45%, 22%, 0.575);
 }
 
 .card-title {
